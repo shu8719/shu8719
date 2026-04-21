@@ -7,9 +7,6 @@
 Building projects with AI, software engineering, and robotics.  
 Also organizing tech events and communities.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
