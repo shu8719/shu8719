@@ -30,7 +30,7 @@ Also organizing tech events and communities.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure]([https://img.shields.io/badge/-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white))
 
 ---
 
