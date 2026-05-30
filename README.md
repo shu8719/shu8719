@@ -48,11 +48,3 @@ ROS / Git / GitHub / Azure
 ### ✨ Keep building, keep learning.
 
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Software+Development;Computer+Vision;Robotics;AI" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shu8719&show_icons=true&theme=github_dark" />
-</p>
