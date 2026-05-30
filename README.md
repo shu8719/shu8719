@@ -21,27 +21,29 @@ Also organizing tech events and communities.
 
 ## 🛠 Skills
 
-### 言語
+### Programming Languages
+
+<p>
+  HTML / CSS / Python / Swift
+</p>
 
 <img src="https://skillicons.dev/icons?i=html,css,python,swift" />
 
-### フレームワークとライブラリ
+### Frameworks and Libraries
+
+<p>
+  React / Flask
+</p>
 
 <img src="https://skillicons.dev/icons?i=react,flask" />
 
-### データベースや開発ツールなど
+### Databases and Development Tools
 
-<img src="https://skillicons.dev/icons?i=ros,git,github,docker," />
+<p>
+  ROS / Git / GitHub / Docker
+</p>
 
----
-
-## 接触
-
-このアイコンをクリックして、お気軽にご連絡ください！
-
-<a href="https://discord.com/users/siyu8719">
-  <img src="https://skillicons.dev/icons?i=discord" />
-</a>
+<img src="https://skillicons.dev/icons?i=ros,git,github,docker" />
 
 ---
 
