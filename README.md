@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Shu
 
-### AI Software Development / Computer Vision / Robotics / Tech Community
+### Software Development / Computer Vision / Robotics / Tech Community
 
 I’m interested in software development using AI, as well as computer vision and robotics.  
 Currently learning networking and cloud infrastructure.
