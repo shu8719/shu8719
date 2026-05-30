@@ -18,7 +18,6 @@ Currently learning networking and cloud infrastructure.
 - 📱 Experience developing iOS apps and automation tools
 - 🌐 Currently learning networking and cloud infrastructure
 - 🤝 Involved in tech communities and event organization
-- 🌍 Interested in global engineering opportunities
 
 ---
 
