@@ -29,9 +29,9 @@ HTML / CSS / Python / Swift
 
 <img src="https://skillicons.dev/icons?i=html,css,python,swift" />
 
-### Frameworks and Libraries
+### Frameworks
 
-Flask / FastAPI / pandas / NumPy / OpenCV
+Flask / FastAPI
 
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
