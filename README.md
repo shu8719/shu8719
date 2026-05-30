@@ -53,16 +53,6 @@ ROS / Git / GitHub / Docker
 
 ---
 
-## 📌 Featured Interests
-
-- AI-powered applications
-- iOS app development
-- Computer vision projects
-- Robotics software
-- Developer communities
-
----
-
 <div align="center">
 
 ### ✨ Keep building, keep learning.
