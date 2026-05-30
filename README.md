@@ -22,8 +22,7 @@ Also organizing tech events and communities.
 ## 🛠 Skills
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,swift,go,cpp" />
-![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,python,swift" />
 
 ### Tools / Tech
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
