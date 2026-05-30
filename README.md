@@ -45,6 +45,6 @@ ROS / Git / GitHub / Azure
 
 <div align="center">
 
-### ⌨💡 Keep building, keep learning.
+### 💪 Keep building, keep learning.
 
 </div>
