@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shu Yamamoto
+# 👋 Hi, I'm Shu
 
 ### AI / Software Development / Robotics / Tech Community
 
