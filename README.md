@@ -44,16 +44,6 @@ ROS / Git / GitHub / Docker
 
 ---
 
-## 🌱 Currently Learning
-
-- Machine Learning / Deep Learning
-- Computer Vision
-- Robotics with ROS
-- Backend Development
-- Cloud Infrastructure
-
----
-
 <div align="center">
 
 ### ✨ Keep building, keep learning.
