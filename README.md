@@ -4,7 +4,7 @@
 
 ### Software Development / Computer Vision / Robotics / Tech Community
 
-I’m interested in software development using AI, as well as computer vision and robotics.  
+I’m working on projects related to robotics, computer vision, and software development using AI.  
 Currently learning networking and cloud infrastructure.
 
 </div>
