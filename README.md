@@ -37,9 +37,9 @@ Flask / FastAPI
 
 ### Tools and Platforms
 
-ROS / Git / GitHub / Docker
+ROS / Git / GitHub / Azure
 
-<img src="https://skillicons.dev/icons?i=ros,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=ros,git,github,azure" />
 
 ---
 
