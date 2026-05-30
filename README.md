@@ -1,21 +1,23 @@
 <div align="center">
 
-# 👋 Hi there
+# 👋 Hi, I'm Shu Yamamoto
 
-### AI / Programming / Robotics / Community
+### AI / Software Development / Robotics / Tech Community
 
-Building projects with AI, software engineering, and robotics.  
-Also organizing tech events and communities.
+I build practical software using AI, computer vision, and web technologies.  
+Currently learning robotics, backend development, and cloud infrastructure.
 
 </div>
 
 ---
 
-## 🚀 About
-- 🤖 Interested in AI / Machine Learning / Computer Vision  
-- 🛠 Building software and experimenting with new technologies  
-- 👥 Experience in community management & event organization  
-- 🌍 Open to global tech opportunities  
+## 🚀 About Me
+
+- 🤖 Interested in AI, Machine Learning, and Computer Vision
+- 🛠 Building practical applications with Python, Swift, and web technologies
+- 📱 Experience developing iOS apps and automation tools
+- 🤝 Involved in tech communities and event organization
+- 🌍 Interested in global engineering opportunities
 
 ---
 
@@ -23,40 +25,46 @@ Also organizing tech events and communities.
 
 ### Programming Languages
 
-<p>
-  HTML / CSS / Python / Swift
-</p>
+HTML / CSS / Python / Swift
 
 <img src="https://skillicons.dev/icons?i=html,css,python,swift" />
 
 ### Frameworks and Libraries
 
-<p>
-  React / Flask
-</p>
+React / Flask
 
 <img src="https://skillicons.dev/icons?i=react,flask" />
 
-### Databases and Development Tools
+### Tools and Platforms
 
-<p>
-  ROS / Git / GitHub / Docker
-</p>
+ROS / Git / GitHub / Docker
 
 <img src="https://skillicons.dev/icons?i=ros,git,github,docker" />
 
 ---
 
 ## 🌱 Currently Learning
-- Machine Learning / Deep Learning  
-- Computer Vision  
-- Robotics (ROS)  
-- Backend / Cloud  
+
+- Machine Learning / Deep Learning
+- Computer Vision
+- Robotics with ROS
+- Backend Development
+- Cloud Infrastructure
+
+---
+
+## 📌 Featured Interests
+
+- AI-powered applications
+- iOS app development
+- Computer vision projects
+- Robotics software
+- Developer communities
 
 ---
 
 <div align="center">
 
-### ✨ Keep building
+### ✨ Keep building, keep learning.
 
 </div>
