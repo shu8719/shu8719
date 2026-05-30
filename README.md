@@ -2,10 +2,10 @@
 
 # 👋 Hi, I'm Shu
 
-### AI / Software Development / Robotics / Tech Community
+### AI / Computer Vision / Robotics Programming / Tech Community
 
-I build practical software using AI, computer vision, and web technologies.  
-Currently learning robotics, backend development, and cloud infrastructure.
+I’m exploring software development using AI, computer vision, and robotics programming.  
+Currently learning networking and cloud infrastructure.
 
 </div>
 
