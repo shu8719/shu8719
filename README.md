@@ -21,14 +21,27 @@ Also organizing tech events and communities.
 
 ## 🛠 Skills
 
-### Languages
+### 言語
+
 <img src="https://skillicons.dev/icons?i=html,css,python,swift" />
 
-### Tools / Tech
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![ROS](https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
+### フレームワークとライブラリ
+
+<img src="https://skillicons.dev/icons?i=react,flask" />
+
+### データベースや開発ツールなど
+
+<img src="https://skillicons.dev/icons?i=ros,git,github,docker,linux,vscode" />
+
+---
+
+## 接触
+
+このアイコンをクリックして、お気軽にご連絡ください！
+
+<a href="https://discord.com/users/siyu8719">
+  <img src="https://skillicons.dev/icons?i=discord" />
+</a>
 
 ---
 
