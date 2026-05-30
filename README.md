@@ -31,9 +31,9 @@ HTML / CSS / Python / Swift
 
 ### Frameworks and Libraries
 
-React / Flask
+Flask / FastAPI / pandas / NumPy / OpenCV
 
-<img src="https://skillicons.dev/icons?i=react,flask" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
 ### Tools and Platforms
 
