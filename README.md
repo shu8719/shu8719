@@ -13,9 +13,9 @@ Currently learning networking and cloud infrastructure.
 
 ## 🚀 About Me
 
-- 🤖 Interested in robotics, computer vision, AI
+- 🤖 Interested in robotics, computer vision, and AI
 - 🛠 Building practical applications with Python, Swift, and web technologies
-- 📱 Experience developing iOS apps and automation tools
+- 📱 Experience in developing iOS apps and automation tools
 - 🌐 Currently learning networking and cloud infrastructure
 - 🤝 Involved in tech communities and event organization
 
