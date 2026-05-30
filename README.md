@@ -31,7 +31,7 @@ Also organizing tech events and communities.
 
 ### データベースや開発ツールなど
 
-<img src="https://skillicons.dev/icons?i=ros,git,github,docker,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=ros,git,github,docker," />
 
 ---
 
