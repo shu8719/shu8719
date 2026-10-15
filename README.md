@@ -4,7 +4,7 @@
 
 ### Software Development / Computer Vision / Robotics / Tech Community
 
-I’m working on projects related to robotics, computer vision, and software development using AI.
+I’m working on projects related to robotics, computer vision, and software development.
 
 </div>
 
