@@ -27,9 +27,9 @@ Python / JavaScript / Swift
 
 <img src="https://skillicons.dev/icons?i=python,js,swift" />
 
-### Frameworks
+### Frameworks & Libraries
 
-Flask / FastAPI
+Flask / FastAPI / SwiftUI
 
 <img src="https://skillicons.dev/icons?i=flask,fastapi" />
 
