@@ -4,8 +4,7 @@
 
 ### Software Development / Computer Vision / Robotics / Tech Community
 
-I’m working on projects related to robotics, computer vision, and software development using AI.  
-Currently learning networking and cloud infrastructure.
+I’m working on projects related to robotics, computer vision, and software development using AI.
 
 </div>
 
@@ -16,7 +15,6 @@ Currently learning networking and cloud infrastructure.
 - 🤖 Interested in robotics, computer vision, and AI
 - 🛠 Building practical applications with Python, Swift, and web technologies
 - 📱 Experience in developing iOS apps and automation tools
-- 🌐 Currently learning networking and cloud infrastructure
 - 🤝 Involved in tech communities and event organization
 
 ---
@@ -25,9 +23,9 @@ Currently learning networking and cloud infrastructure.
 
 ### Programming Languages
 
-HTML / CSS / Python / Swift
+Python / JavaScript / Swift
 
-<img src="https://skillicons.dev/icons?i=html,css,python,swift" />
+<img src="https://skillicons.dev/icons?i=python,js,swift" />
 
 ### Frameworks
 
