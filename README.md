@@ -27,12 +27,6 @@ Python / JavaScript / Swift
 
 <img src="https://skillicons.dev/icons?i=python,js,swift" />
 
-### Frameworks & Libraries
-
-Flask / FastAPI / SwiftUI
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi" />
-
 ### Tools and Platforms
 
 ROS / Git / GitHub / Azure
