@@ -1,42 +1,61 @@
 <div align="center">
 
-# 👋 Hi, I'm Shu
+# Shu
 
-### Software Development / Computer Vision / Robotics / Tech Community
-
-I’m working on projects related to robotics, computer vision, and software development.
+Software Development / Computer Vision / Robotics / Tech Community
 
 </div>
 
----
+## Tech Stack
 
-## 🚀 About Me
+<table width="100%">
+  <tr>
+    <td valign="top" width="430">
+      <strong>プログラミング言語</strong><br /><br />
+      <div align="center">
+        <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML" />
+        <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS" />
+        <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
+        <img src="./assets/icons/c.svg" width="40" height="40" alt="C" />
+        <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" />
+        <img src="./assets/icons/swift.svg" width="40" height="40" alt="Swift" />
+      </div>
+    </td>
+    <td valign="top" width="430">
+      <strong>インフラ</strong><br /><br />
+      <div align="center">
+        <img src="./assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
+        <img src="./assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />
+        <img src="./assets/icons/aws.svg" width="40" height="40" alt="AWS" />
+        <img src="./assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
+      </div>
+    </td>
+  </tr>
+</table>
 
-- 🤖 Interested in robotics, computer vision, and AI
-- 🛠 Building practical applications with Python, Swift, and web technologies
-- 📱 Experience in developing iOS apps and automation tools
-- 🤝 Involved in tech communities and event organization
+<table width="100%">
+  <tr>
+    <td valign="top" width="860">
+      <strong>開発ツール</strong><br /><br />
+      <div align="center">
+        <img src="./assets/icons/vscode.svg" width="40" height="40" alt="VS Code" />
+        <img src="./assets/icons/visualstudio.svg" width="40" height="40" alt="Visual Studio" />
+        <img src="./assets/icons/git.svg" width="40" height="40" alt="Git" />
+        <img src="./assets/icons/github.svg" width="40" height="40" alt="GitHub" />
+        <img src="./assets/icons/ros.svg" width="40" height="40" alt="ROS" />
+        <img src="./assets/icons/blender.svg" width="40" height="40" alt="Blender" />
+        <img src="./assets/icons/unity.svg" width="40" height="40" alt="Unity" />
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+## Contribution Snake
 
-## 🛠 Skills
-
-### Programming Languages
-
-Python / JavaScript / Swift
-
-<img src="https://skillicons.dev/icons?i=python,js,swift" />
-
-### Tools and Platforms
-
-ROS / Git / GitHub / Azure
-
-<img src="https://skillicons.dev/icons?i=ros,git,github,azure" />
-
----
-
-<div align="center">
-
-### 💪 Keep building, keep learning.
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shu8719/shu8719/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shu8719/shu8719/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/shu8719/shu8719/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" width="100%" />
+  </picture>
+</p>
