@@ -16,6 +16,7 @@ Software Development / Computer Vision / Robotics / Tech Community
         <img src="./assets/icons/html5.svg" width="40" height="40" alt="HTML" />
         <img src="./assets/icons/css3.svg" width="40" height="40" alt="CSS" />
         <img src="./assets/icons/javascript.svg" width="40" height="40" alt="JavaScript" />
+        <img src="./assets/icons/typescript.svg" width="40" height="40" alt="TypeScript" />
         <img src="./assets/icons/c.svg" width="40" height="40" alt="C" />
         <img src="./assets/icons/python.svg" width="40" height="40" alt="Python" />
         <img src="./assets/icons/swift.svg" width="40" height="40" alt="Swift" />
@@ -28,6 +29,7 @@ Software Development / Computer Vision / Robotics / Tech Community
         <img src="./assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />
         <img src="./assets/icons/aws.svg" width="40" height="40" alt="AWS" />
         <img src="./assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
+        <img src="./assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
       </div>
     </td>
   </tr>
