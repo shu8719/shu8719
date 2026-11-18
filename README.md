@@ -26,10 +26,10 @@ Software Development / Computer Vision / Robotics / Tech Community
       <strong>Infrastructure</strong><br /><br />
       <div align="center">
         <img src="./assets/icons/googlecloud.svg" width="40" height="40" alt="Google Cloud" />
+        <img src="./assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
         <img src="./assets/icons/cloudflare.svg" width="40" height="40" alt="Cloudflare" />
         <img src="./assets/icons/aws.svg" width="40" height="40" alt="AWS" />
         <img src="./assets/icons/azure.svg" width="40" height="40" alt="Microsoft Azure" />
-        <img src="./assets/icons/firebase.svg" width="40" height="40" alt="Firebase" />
       </div>
     </td>
   </tr>
